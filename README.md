@@ -1,3 +1,6 @@
+Hello
+my discord - JosianeVincent#1104
+
 # lottery.aleo
 
 ## Run Guide
